@@ -1,0 +1,6 @@
+names:
+  0: drone
+path:
+test: test/images
+train: train/images
+val: valid/images
